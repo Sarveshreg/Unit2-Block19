@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+
+th{
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+td{
+    background-color: rgb(243, 229, 215);
+}
+
+html{
+    text-align: center;
+}
+#mainTable{
+    padding-left: 20px;
+}
